@@ -64,7 +64,7 @@ const CartContainer = () => {
             <div className=" w-full border-b border-gray-600 my-2"></div>
             <div className=" w-full flex items-center justify-between">
               <p className=" text-gray-200 text-xl font-semibold">Total</p>
-              <p className=" text-gray-200 text-xl font-semibold">$11.2</p>
+              <p className=" text-gray-200 text-xl font-semibold">&#8377;11.2</p>
             </div>
 
                 {user ? (
